@@ -1,7 +1,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l21210469-cmyk/Practica2MSF)
 # Práctica 2: Sistema cardiovascular
 
-## Información de la estudiante
+## Información del estudiante
 Andres Preciado Herndez \[21210469]; l21210469@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
